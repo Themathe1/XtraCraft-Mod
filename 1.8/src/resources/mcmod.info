@@ -1,0 +1,17 @@
+[
+	{
+		"modid": "xtracraftmod",
+		"name": "XtraCraft",
+		"description": "Total hardcore XtraCraft has several new challenges to meet, for it has various new blocks, 19 mobs and an incredible new dimension to a boss!",
+		"version": "1.5.1.29.1354",
+		"mcversion": "${mcversion}",
+		"url": "http://goo.gl/3dWHg",
+		"updateUrl": "",
+		"authorList": ["Themathe1, SniperM82A2"],
+		"credits": "For Forge and for MCP team =D",
+		"logoFile": "/xtra_logo.png",
+		"screenshots": [],
+		"dependencies": []
+	}
+	
+]
